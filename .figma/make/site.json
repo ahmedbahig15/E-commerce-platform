@@ -1,0 +1,11 @@
+{
+  "title": "E-commerce platform",
+  "description": "A comprehensive e-commerce platform offering product browsing, secure payments, order management, and admin tools to enhance online shopping and sales.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
